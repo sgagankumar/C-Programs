@@ -1,6 +1,5 @@
 //Battle Ship board game simulator
 
-
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
